@@ -1,0 +1,2 @@
+# pointers
+playing with pointers
